@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1462126572 source:c:\users\filipe\documents\youtube\listas-encadeadas\projeto\lista-encadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
